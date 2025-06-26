@@ -7,7 +7,7 @@ import java.sql.Statement;
 public class DatabaseConnection {
     private static final String URL = "jdbc:postgresql://localhost:5432/postgres"; // Connect to default postgres database first
     private static final String USER = "postgres";
-    private static final String PASSWORD = "";
+    private static final String PASSWORD = "harkr005";
     
     private static Connection connection = null;
     private static boolean isInitialized = false;
