@@ -7,10 +7,15 @@ The Virtual ATM System is a software-based simulation of an Automated Teller Mac
 Objectives:
 
 The main objectives of this project are:
+
 •	✔ To develop a secure and efficient ATM system.
+
 •	✔ To provide essential banking functionalities such as withdrawal, deposit, balance inquiry, and fund transfers.
+
 •	✔ To implement user authentication for secure transactions.
+
 •	✔ To store account details persistently using file handling.
+
 •	✔ To ensure data integrity and prevent unauthorized access.
 
 
